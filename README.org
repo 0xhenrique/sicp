@@ -1,0 +1,6 @@
+#+TITLE: Structure and Interpretation of Computer Programs
+#+LANGUAGE: en
+
+* Why?
+Throghout my reading of the SICP book, I plan to store all the codes and notes here so I can use for future consulting.
+It can also be a good way to see how my coding skills evolves as the time passes by.
