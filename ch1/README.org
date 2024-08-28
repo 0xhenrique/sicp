@@ -16,6 +16,9 @@ Key points of a programming language:
 (+ (* 3 (+ (* 2 4) (+ 3 5))) (+ (- 10 7) 6))
 #+END_SRC
 
+#+RESULTS:
+: 57
+
 *** Naming and the Environment
 #+BEGIN_SRC scheme
 (define pi 3.14159)
