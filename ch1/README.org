@@ -1,4 +1,4 @@
-#+TITLE: Pachemacs
+#+TITLE: Building Abstractions with Procedures
 #+LANGUAGE: en
 
  #+BEGIN_QUOTE
